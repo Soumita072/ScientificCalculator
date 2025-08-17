@@ -27,3 +27,9 @@ The calculator comes with a clean GUI layout, styled buttons, and supports error
 - `←` – Backspace (delete last character)  
 - `±` – Toggle positive/negative  
 - Parentheses support `(` and `)`  
+
+## ⚡ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Soumita072/ScientificCalculator.git
